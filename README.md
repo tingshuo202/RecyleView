@@ -1,5 +1,4 @@
-![image](https://github.com/tingshuo202/RecyleView/master/app/gif/bb.gif )  
-
+![image](https://github.com/tingshuo202/RecyleView/tree/master/app/gif/bb.gif )  
 
 # RecyleView通过recyleview展示不同的效果：listview，gridview，瀑布流。
 1、使用LayoutManager来确定每一个item的排列方式,即显示的方式。
